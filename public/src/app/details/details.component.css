@@ -1,0 +1,10 @@
+.cakeInfo, img{
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    overflow: scroll;
+    margin-left: 2%;
+}
+.ratingGrouping{
+    margin-top: 6%;
+}

@@ -1,0 +1,10 @@
+<h1 class="display-4">Baked by {{cakeToShow.name}}</h1>
+<img [src]="cakeToShow.image" alt="Tasty Cake">
+<div class="cakeInfo">
+    <h4>Average Rating: {{cakeToShow.avgRating}} Stars</h4>
+    <div class="ratingGrouping" *ngFor="let rating of cakeToShow.ratings">
+        <h6>{{rating.comment}}</h6>
+        <h6>{{rating.rating}} stars</h6>
+    </div>
+</div>
+

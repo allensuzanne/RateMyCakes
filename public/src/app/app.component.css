@@ -1,0 +1,48 @@
+.cakeInput{
+    height: 30%;
+}
+h1, .h3{
+    border-bottom: 2px dashed lightcoral;
+}
+.btn-outline-primary{
+    color: lightskyblue;
+    border: lightskyblue solid 1px;
+}
+.cakeSubmit{
+    height: 100%;
+    width: 30%;
+    display: inline-block;
+    /* border: tomato 1px dashed; */
+    padding: 2%;
+}
+.cakeRate{
+    height: 500px;
+    width: 65%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2%;
+    overflow: scroll;
+    border: 3px lightskyblue dotted;
+    padding: 0 2%;
+}
+.eachCake img{
+    width: 35%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.eachCake form{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2%;
+    width: 63%;
+}
+.eachCake{
+    margin-top: 4%;
+}
+button{
+    width: fit-content;
+    border: none;
+    background-color: none;
+    display: inline-block;
+}
