@@ -20,4 +20,4 @@ This is MEAN application that allows users to submit pictures of cakes. All the 
 -In a new terminal window, in the "ratemycakes" folder, run the command ```nodemon server.js``` to run the server
 
 ## Contact
-smithsuzanne08@gmail.com
+allensuzanne08@gmail.com
